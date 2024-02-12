@@ -6,6 +6,7 @@
       target="_blank"
       ><img src="./../../public/Liens/linkedin.png"
     /></a>
+    <a href="./CV/CV-Ayache_Naoufal.pdf" download="CV-Ayache_Naoufal.pdf"><img src="./../../public/Liens/file-regular.svg" alt="download CV"></a>
     <a href="mailto:naoufalayache@gmail.com"><img src="./../../public/Liens/mail.png" alt="Mail"/></a>
   </div>
 </template>
